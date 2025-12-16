@@ -1,0 +1,21 @@
+{
+  "name": "dt-workspace-marketplace",
+  "owner": {
+    "name": "Deepak Tiwari",
+    "email": "deepaktiwari3020@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "dt-workspace",
+      "source": "./",
+      "description": "AI-powered workflow documentation generator from SOW documents - generates comprehensive project docs with BDD features, API contracts, database schemas",
+      "version": "1.0.0",
+      "category": "documentation",
+      "tags": ["sow", "documentation", "workflow", "bdd", "api", "scaffold"],
+      "author": {
+        "name": "Deepak Tiwari",
+        "email": "deepaktiwari3020@gmail.com"
+      }
+    }
+  ]
+}
