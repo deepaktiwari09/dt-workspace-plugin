@@ -1,0 +1,9 @@
+{
+  "name": "dt-workspace",
+  "version": "1.0.0",
+  "description": "AI-powered workflow documentation generator from SOW documents - generates comprehensive project documentation with BDD features, API contracts, database schemas, and more",
+  "author": {
+    "name": "Deepak Tiwari",
+    "email": "deepaktiwari3020@gmail.com"
+  }
+}
